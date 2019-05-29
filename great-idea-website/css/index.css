@@ -95,11 +95,16 @@ button{
 	margin: 10px;
 }
 
-.body-text{
+.body-text1{
 	width: 500px;
-	
+	display: inline-block;
 }
 .middle-img{
 	width:1000px;
 	height: 200px;
+}
+
+.body-text2{
+	width: 333px;
+	display: inline-block;
 }
