@@ -64,7 +64,42 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
-
 .navigation{
+	width: 1000px;
+	height: 100px;
+	padding: 20px;
+	color: lightgray;
+	word-spacing: 75px;
+}
+
+h1 span{
+	display: block;
+	font-size: 500%;
+}
+
+.main-header {
+	width: 1000px;
+	margin-bottom: 50px;
+	padding: 100px;
+}
+
+button{
+	font-size: 14px;
+	border: 1px;
+	border-style: solid;
+	border-color: black;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin: 10px;
+}
+
+.body-text{
+	width: 500px;
 	
+}
+.middle-img{
+	width:1000px;
+	height: 200px;
 }
